@@ -1,3 +1,4 @@
+// Emilia Ponisio/90565-2/ comision 3
 PImage img; // Variable para almacenar la imagen
 
 void setup() {
